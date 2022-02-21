@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 
-const Navbar: React.FC = ({}) => {
+const Navbar: React.FC = () => {
   return (
     <nav className='navbar navbar-expand-sm navbar-light bg-light'>
       <div className='container-fluid'>
